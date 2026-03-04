@@ -1,0 +1,54 @@
+[
+  {
+    "username": "SNIPER8P",
+    "email": "nijoledaniel123@gmail.com",
+    "password": "d1e393b2394517aa33b87f91fd681380326deaec0b1c081040ef4787770d6361",
+    "decks": {
+      "DS": [],
+      "DSDS": [],
+      "DSD": [],
+      "SDSDS": [],
+      "DSDSDSDS": [],
+      "ADOLF": [
+        {
+          "question": "ADOLF",
+          "answer": "DSDSDS"
+        },
+        {
+          "question": "DSDSDS",
+          "answer": "DSDSDSDSDSDS"
+        },
+        {
+          "question": "DSDS",
+          "answer": "DSD"
+        },
+        {
+          "question": "What is the primary function of a curtain?",
+          "answer": "To block out light and provide privacy"
+        },
+        {
+          "question": "What is the term for the top hem of a curtain?",
+          "answer": "Hem"
+        },
+        {
+          "question": "What is the type of fabric most commonly used for curtain making?",
+          "answer": "Cotton or cotton blends"
+        },
+        {
+          "question": "What is the term for the process of adding a lining to a curtain?",
+          "answer": "Lining"
+        },
+        {
+          "question": "What is the term for the type of curtain that allows for flexibility and movement?",
+          "answer": "Grommet top"
+        }
+      ]
+    }
+  },
+  {
+    "username": "danieldsds",
+    "email": "dadsad@gmail.com",
+    "password": "c02d8e6211ef7dc5af42085cbb323a122b76905ac098467ea1f85465ec14429d",
+    "decks": {}
+  }
+]

@@ -1,4 +1,4 @@
-# 🐿️ Study Squirrel
+# Study Squirrel
 
 A desktop flashcard revision application for students, built with Python and CustomTkinter. Study Squirrel lets you create flashcard decks manually or generate them automatically using a local AI model (Ollama), then revise them using an active recall system — all fully offline.
 

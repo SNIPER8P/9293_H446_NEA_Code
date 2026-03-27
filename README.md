@@ -108,8 +108,8 @@ Each user is stored as a dictionary inside a list. Decks are stored as a nested 
 ```json
 [
   {
-    "username": "daniel",
-    "email": "daniel@example.com",
+    "username": "student1",
+    "email": "student1@example.com",
     "password": "5e884898da...",
     "decks": {
       "A Level Computer Science": [
